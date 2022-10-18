@@ -1,6 +1,6 @@
 # kilidproject
 
-#Java18
+#Java17
 
 #Spring boot 2.7.2
 
